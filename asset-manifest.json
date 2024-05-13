@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.75fa7eed.css",
-    "main.js": "/static/js/main.185cee18.js",
-    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "static/media/bg.jpg": "/static/media/bg.78e2b06c86f00191a8be.jpg",
-    "static/media/logo.png": "/static/media/logo.ce5c537c061daf484680.png",
-    "static/media/staffmain.png": "/static/media/staffmain.5e2f4aac58491fcb5f47.png",
-    "static/media/MLH-Logo.jpg": "/static/media/MLH-Logo.eb06ca7634d6056cf599.jpg",
-    "index.html": "/index.html",
-    "main.75fa7eed.css.map": "/static/css/main.75fa7eed.css.map",
-    "main.185cee18.js.map": "/static/js/main.185cee18.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/SPM_FRONT_END/static/css/main.75fa7eed.css",
+    "main.js": "/SPM_FRONT_END/static/js/main.9712e84a.js",
+    "static/js/787.cda612ba.chunk.js": "/SPM_FRONT_END/static/js/787.cda612ba.chunk.js",
+    "static/media/bg.jpg": "/SPM_FRONT_END/static/media/bg.78e2b06c86f00191a8be.jpg",
+    "static/media/logo.png": "/SPM_FRONT_END/static/media/logo.ce5c537c061daf484680.png",
+    "static/media/staffmain.png": "/SPM_FRONT_END/static/media/staffmain.5e2f4aac58491fcb5f47.png",
+    "static/media/MLH-Logo.jpg": "/SPM_FRONT_END/static/media/MLH-Logo.eb06ca7634d6056cf599.jpg",
+    "index.html": "/SPM_FRONT_END/index.html",
+    "main.75fa7eed.css.map": "/SPM_FRONT_END/static/css/main.75fa7eed.css.map",
+    "main.9712e84a.js.map": "/SPM_FRONT_END/static/js/main.9712e84a.js.map",
+    "787.cda612ba.chunk.js.map": "/SPM_FRONT_END/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75fa7eed.css",
-    "static/js/main.185cee18.js"
+    "static/js/main.9712e84a.js"
   ]
 }
